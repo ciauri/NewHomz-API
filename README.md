@@ -1,6 +1,6 @@
 NewHomz API Documentation
 =========================
-This document will go through the different calls available to you while using the NewHomz REST API. There is currently no rate limit on these methods. However, if abuse is detected, we will, at our own discretion, revoke access.
+This document will go through the different calls available to you while using the NewHomz API. There is currently no rate limit on these methods. However, if abuse is detected, we will, at our own discretion, revoke access.
 
 Source will be posted once it is cleaned up.
 
